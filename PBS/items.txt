@@ -6595,3 +6595,13 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A Pokemon-themed greeting card.
+#-------------------------------
+[RAZORTEETH]
+Name = Razor Teeth
+NamePlural = Razor Teeth
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = An odd dental gift from Peggy.
+
+
