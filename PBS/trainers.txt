@@ -122,11 +122,11 @@ LoseText = Wow, you're amazing as always.
 Items = MEGARING
 Pokemon = UMBREON,50
     Shiny = true
+    AbilityIndex = 2
     Item = LEFTOVERS
-    IV = 31,31,31,31,31,31
     Nature = CALM
     EV = 252,0,4,0,252,0
-    Moves = MOONLIGHT,DARKPULSE,PROTECT,TOXIC
+    Moves = MOONLIGHT,DARKPULSE,PROTECT,HEALBELL
 Pokemon = EXCADRILL,50
     Item = LEFTOVERS
     AbilityIndex = 2
@@ -151,8 +151,10 @@ Pokemon = AZUMARILL,50
     Moves = WATERFALL,AQUAJET,ICEPUNCH,PLAYROUGH
 Pokemon = CHARIZARD,50
     Item = CHARIZARDITEX
+    Shiny = true
     IV = 31,31,31,31,31,31
     Nature = JOLLY
     EV = 0,252,0,4,0,252
     Moves = FLAREBLITZ,DRAGONDANCE,DRAGONCLAW,ROOST
+
 
