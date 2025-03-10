@@ -41,8 +41,8 @@ MapSize = 2,11
 Name = John Solo's House
 MapPosition = 0,13,12
 #-------------------------------
-[009]   # Cedolan City Poké Center
-Name = Cedolan City
+[009]   # San Jose Poké Center
+Name = San Jose
 HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
