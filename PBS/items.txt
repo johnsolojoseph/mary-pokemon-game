@@ -6603,5 +6603,13 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = An odd dental gift from Peggy.
+#-------------------------------
+[TAMPAPER]
+Name = Piece of Paper from Tam
+NamePlural = Piece of Paper from Tam
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Happy Birthday! :-) Thx for all your floss
 
 
