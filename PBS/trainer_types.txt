@@ -4,7 +4,6 @@
 Name = Boyfriend
 Gender = Male
 BaseMoney = 60
-SkillLevel = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------

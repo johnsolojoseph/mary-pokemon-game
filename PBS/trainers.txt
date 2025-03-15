@@ -91,6 +91,7 @@ Pokemon = STARYU,15
 Pokemon = GOLDEEN,11
 #-------------------------------
 [RIVAL1,Will]
+LoseText = Not too shabby.
 Pokemon = BULBASAUR,50
 Pokemon = MEGANIUM,50
 Pokemon = TOGEKISS,50
@@ -131,7 +132,7 @@ Pokemon = EXCADRILL,50
     Item = LEFTOVERS
     AbilityIndex = 2
     Nature = ADAMANT
-    Moves = RAPIDSPIN,EARTHQUAKE,IRONHEAD,ROCKSLIDE
+    Moves = ROCKTOMB,EARTHQUAKE,IRONHEAD,ROCKSLIDE
 Pokemon = BRELOOM,50
     Item = FOCUSSASH
     AbilityIndex = 2
