@@ -14,7 +14,7 @@ BaseMoney = 60
 #-------------------------------
 [POKEMONTRAINER_Brendan]
 Name = Pokémon Trainer
-Gender = Male
+Gender = Female
 BaseMoney = 60
 #-------------------------------
 [POKEMONTRAINER_Serena]

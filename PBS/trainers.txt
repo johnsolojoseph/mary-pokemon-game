@@ -157,6 +157,15 @@ Pokemon = LUNATONE,50
 Pokemon = GARDEVOIR,50
 Pokemon = DELCATTY,50
 Pokemon = CLEFABLE,50
+#-------------------------------
+[POKEMONTRAINER_Brendan,Kelley]
+LoseText = BRUHHHHHH
+Pokemon = RATICATE,50
+Pokemon = CINCCINO,50
+Pokemon = NIDORANfE,50
+Pokemon = MARILL,50
+Pokemon = MINUN,50
+Pokemon = MINCCINO,50
 
 
 
